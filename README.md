@@ -5,9 +5,21 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anbu2005-svg" alt="anbu2005-svg" /></a> </p>
 
-- 🌱 I'm currently learning **react, LLM, RAG, YOLO**
+---
 
-- 📫 How to reach me **anbanand44@gmail.com**
+## 👨‍💻 About Me
+
+I'm an AI/ML enthusiast and developer with a passion for building intelligent systems that solve real-world problems. My expertise lies in **computer vision**, **deep learning**, and **real-time threat detection systems**. I specialize in developing advanced applications using **Python, PyTorch, and TensorFlow** to create cutting-edge solutions for security and healthcare.
+
+With a strong foundation in machine learning and a keen interest in emerging technologies like **LLMs and RAG**, I'm committed to pushing the boundaries of what's possible with artificial intelligence. I believe in clean code, continuous learning, and applying AI responsibly to make a positive impact.
+
+---
+
+- 🔬 **Specialization**: Computer Vision, Deep Learning, Real-Time Detection Systems
+- 🌱 I'm currently learning **React, LLM, RAG, and YOLO**
+- 💼 Open to collaborations on AI/ML projects
+- 📫 How to reach me: **anbanand44@gmail.com**
+- 🌍 Location: India
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
